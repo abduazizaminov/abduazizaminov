@@ -48,7 +48,7 @@
 
 ###
 
-<img align="right" height="150" src="./assets/2GU.gif"  />
+<img align="right" height="150" src="./assets/2GU.gif"/>
 
 ###
 
