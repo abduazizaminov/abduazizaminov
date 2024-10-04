@@ -1,6 +1,5 @@
 
 <h2 align="left">Hi 👋! My name is Abduaziz Aminov and I'm a Front-end developer, from Tajikistan/Khujand</h2>
-
 ###
 
 <p align="left">About me 🙋‍♂️<br><br>I'm a dedicated frontend developer with a strong focus on Vue.js and React, and I also have experience in mobile app development using Ionic. I have a deep passion for creating clean, efficient code, and I love tackling challenging problems to deliver outstanding user experiences. Whether I'm collaborating with a team or working solo, I approach every project with creativity and determination. Let's turn your ideas into reality!</p>
